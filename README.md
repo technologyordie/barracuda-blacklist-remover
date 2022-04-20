@@ -7,7 +7,7 @@ A sample file is included for your reference.  Be sure to remove all extra space
 Script will out put the Barracude reference number once the IP address is confirmed submitted
 and will output an error message otherwise.
 
-###Sample Output
+### Sample Output
 ```
 user@hostname barracuda % ./script.pl   
 192.168.1.2 : Error or already removed

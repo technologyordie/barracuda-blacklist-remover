@@ -4,6 +4,7 @@ use warnings;
 
 my $file = 'ip.txt';#text file to read in an ip address per line
 
+#Edit these values as needed
 my $email = 'user@domain.com';
 my $phone = '5555551234';
 my $comments = 'Reason+to+delist+this+ip+address';

@@ -9,3 +9,5 @@ and will output an error message otherwise.
 
 Provided without warrenty, garantee, etc  Please use responsibly and test at a smaller scale 
 before attmepting to submit a large list of IP addresses
+
+Tested on MAC OSX 11.6.4
